@@ -12,7 +12,7 @@ Taurus.  The tertiary (outer) giant star overflows its Roche lobe at
 pericenter.  We simulate the system using the AMUSE framework (see
 [amusecode.org](http://www.amusecode.org)), using a combination of stellar evolution,
 gravitational dynamics and hydrodynamics.  Reference to the scientific
-paper: http://adsabs.harvard.edu/abs/2014MNRAS.438.1909D. The script
+paper: [2014MNRAS.438.1909D](http://adsabs.harvard.edu/abs/2014MNRAS.438.1909D). The script
 to simulate the evolution of this system can be downloaded from:
 [http://www.amusecode.org/doc/examples/](http://old.amusecode.org/doc/examples/).
 
