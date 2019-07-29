@@ -13,7 +13,7 @@ resource. Like with Python, there are basically two ways to use AMUSE.
 Firstly, directly via the interactive (Python) command line:
 
 ```bash
-> ipython
+> python
 Python 2.7.16 (default, Apr  1 2019, 14:50:41) 
 [GCC 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.3)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
