@@ -54,7 +54,7 @@ Unbound objects turn gray.
 The orbital elements (semi-major axis, eccentricity and inclination) are presented in the right panels.
 The diamonds give the known Sednitos.
 
-Simulate the windy S-stars in orbit around the Galactic center (see [2015arXiv151203304L](http://adsabs.harvard.edu/abs/2015arXiv151203304L))
+Simulate the windy S-stars in orbit around the Galactic center (see [2016MNRAS.456.3645L](http://adsabs.harvard.edu/abs/2016MNRAS.456.3645L))
 [![Stellar winds near massive black holes: The case of the S-stars.](http://img.youtube.com/vi/soGFgzRso3c/0.jpg)](http://www.youtube.com/watch?v=soGFgzRso3c "Stellar winds near massive black holes: The case of the S-stars.")
 
 Animation of the S-stars in orbit around the supermassive black hole in the Galactic center (in the middle of the animation).
