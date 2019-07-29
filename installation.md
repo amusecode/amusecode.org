@@ -39,7 +39,7 @@ sudo apt-get install build-essential gfortran python-dev \
 
 On macOS, you will first need to install Xcode. You can do so via the app store.
 
-In this section we assume a default macOS installation (up to Mojave) with macports installed.
+In this section we assume a default macOS installation (up to Mojave) with MacPorts, but other methods (such as Homebrew) will also work.
 
 You can choose between openmpi and mpich as desired, both work with AMUSE. 
 Please make sure to set the compilers installed here as default, as it will greatly simplify things later on.
