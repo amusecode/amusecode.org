@@ -5,16 +5,17 @@ nav_order: 6
 permalink: /papers
 ---
 
-Please contact us if you have used AMUSE so that we can add your article here.
+The articles listed on this page used and/or contributed to AMUSE. The list is incomplete.
+Please contact us if you have used AMUSE so that we can add your article here - or [edit it yourself](https://github.com/amusecode/amusecode.github.io/blob/master/papers.md).
 
-## An incomplete list of articles that used AMUSE:
+## A list of articles that used AMUSE:
 
 Author | Title | AMUSE version | Simulation scripts
 ------ | ----- | ------------- | ------------------
 Alison Sills et al. | [Dynamical evolution of stars and gas<br> of young embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.477.1903S/doi:10.1093/mnras/sty681) | unknown | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
 
 
-## An incomplete list of AMUSE modules:
+## A list of AMUSE modules:
 
 Author | Title | Minimum AMUSE version | Module
 ------ | ----- | --------------------- | ------
