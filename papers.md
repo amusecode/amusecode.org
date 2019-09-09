@@ -12,6 +12,7 @@ Please contact us if you have used AMUSE so that we can add your article here - 
 
 Author | Title | AMUSE version used | Simulation scripts
 ------ | ----- | ------------------ | ------------------
+Arjen van Elteren et al. | [Survivability of planetary systems<br> in young and dense star clusters](https://ui.adsabs.harvard.edu/link_gateway/2019A&A...624A.120V/doi:10.1051/0004-6361/201834641) | 11 | n/a
 Alison Sills et al. | [Dynamical evolution of stars and gas<br> of young embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.477.1903S/doi:10.1093/mnras/sty681) | 11 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
 
 
