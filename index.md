@@ -11,7 +11,7 @@ With it, you can simulate many astrophysical systems.
 
 ### Getting Started
 
-The easiest way to use AMUSE is to install it with pip - see [installation](/installation)
+The easiest way to use AMUSE is to install it with pip - see [installation](/installation).
 1. Install Python and other prerequisites, such as a compiler and MPI.
 2. Create a virtual environment.
 3. Install AMUSE via pip.
@@ -19,9 +19,9 @@ The easiest way to use AMUSE is to install it with pip - see [installation](/ins
 
 ### Examples
 
-AMUSE comes with many examples, which you can find in the "examples" directory on github.
+AMUSE comes with many examples, which you can find in the ["examples" directory on github](https://github.com/amusecode/amuse/tree/master/examples).
 The "textbook" examples are described in the [AMUSE book](https://iopscience.iop.org/book/978-0-7503-1320-9).
-If you need help, don't hesitate to contact us (preferably by creating an issue on github).
+If you need help, don't hesitate to contact us (preferably by [creating an issue on github](https://github.com/amusecode/amuse/issues/new?assignees=&labels=question&template=question.md&title=)).
 
 ### Get involved
 
@@ -31,5 +31,5 @@ Please do also contact us if you want to fix a bug, add a feature or do somethin
 
 ### Support or Contact
 
-If you have a question, bug report, or feature request, please make a new issue on the [main AMUSE github page](https://github.com/amusecode/amuse) and we will try to answer as soon as possible.
+If you have a question, bug report, or feature request, please make a new issue on the [main AMUSE github page](https://github.com/amusecode/amuse/issues/new/choose) and we will try to answer as soon as possible.
 You can also reach us by email: <info@amusecode.org>.
