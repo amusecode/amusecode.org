@@ -11,7 +11,7 @@ With it, you can simulate many astrophysical systems.
 
 ### Getting Started
 
-The easiest way to use AMUSE is to install it with pip.
+The easiest way to use AMUSE is to install it with pip - see [installation](/installation)
 1. Install Python and other prerequisites, such as a compiler and MPI.
 2. Create a virtual environment.
 3. Install AMUSE via pip.
