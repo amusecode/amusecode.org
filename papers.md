@@ -21,3 +21,4 @@ Alison Sills et al. | [Dynamical evolution of stars and gas<br> of young embedde
 Author | Title | Minimum AMUSE version | Module
 ------ | ----- | --------------------- | ------
 Edwin van der Helm et al. | [Simulating stellar winds in AMUSE](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..85V/abstract) | 12.0 | amuse.ext.stellar_wind
+Carmen Martínez-Barbosa et al. | [Radial migration of the Sun <br>in the Milky Way: a statistical study] ( https://doi.org/10.1093/mnras/stu2094) | 10 | amuse.ext.rotating_bridge
