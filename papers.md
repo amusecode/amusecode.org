@@ -12,14 +12,13 @@ Please contact us if you have used AMUSE so that we can add your article here - 
 
 Author | Title | AMUSE version used | Simulation scripts
 ------ | ----- | ------------------ | ------------------
-Arjen van Elteren et al. | [Survivability of planetary systems<br> in young and dense star clusters](https://ui.adsabs.harvard.edu/link_gateway/2019A&A...624A.120V/doi:10.1051/0004-6361/201834641) | 11 | n/a
-Alison Sills et al. | [Dynamical evolution of stars and gas<br> of young embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/link_gateway/2018MNRAS.477.1903S/doi:10.1093/mnras/sty681) | 11 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
-Maxwell Cai et al. | [On the survivability of planets in young<br> massive clusters and its implication of planet<br> orbital architectures in globular clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4311C/abstract) | 11 | n/a
-
+Cai, Maxwell X. et al. | [On the survivability of planets in young massive<br> clusters and its implication of planet orbital<br> architectures in globular clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4311C/abstract) | 11 | n/a
+Sills, Alison et al. | [Dynamical evolution of stars and gas of young<br> embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1903S/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
+van Elteren, A. et al. | [Survivability of planetary systems in young<br> and dense star clusters](https://ui.adsabs.harvard.edu/abs/2019A&A...624A.120V/abstract) | 11 | n/a
 
 ## A list of AMUSE modules:
 
 Author | Title | Minimum AMUSE version | Module
 ------ | ----- | --------------------- | ------
-Edwin van der Helm et al. | [Simulating stellar winds in AMUSE](https://ui.adsabs.harvard.edu/abs/2019A%26A...625A..85V/abstract) | 12.0 | amuse.ext.stellar_wind
-Carmen Martínez-Barbosa et al. | [Radial migration of the Sun<br> in the Milky Way: a statistical study](https://doi.org/10.1093/mnras/stu2094) | 10 | amuse.ext.rotating_bridge
+Martínez-Barbosa, C. A. et al. | [Radial migration of the Sun in the Milky Way:<br> a statistical study](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..823M/abstract) | 10 | amuse.ext.rotating_bridge
+van der Helm, Edwin et al. | [Simulating stellar winds in AMUSE](https://ui.adsabs.harvard.edu/abs/2019A&A...625A..85V/abstract) | 12.0 | n/a | amuse.ext.stellar_wind
