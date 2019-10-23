@@ -79,6 +79,11 @@ To create the virtual environment, do (from a desired directory):
 ```bash
 virtualenv Amuse-env
 ```
+or
+```bash
+python3 -m venv Amuse-env
+```
+for Python 3.
 When the environment is created, you can activate it with:
 
 ```bash
