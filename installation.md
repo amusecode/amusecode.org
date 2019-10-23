@@ -71,7 +71,7 @@ sudo port select --set virtualenv virtualenv27
 ## Installing AMUSE
 
 After installing the prerequisites, you can install AMUSE.
-First, create a virtual environment to install AMUSE and other desired Python packages in.
+Optionally, first create a virtual environment to install AMUSE and other desired Python packages in.
 This ensures that you don’t need root privileges and that your AMUSE environment is isolated from other system-installed packages.
 
 To create the virtual environment, do (from a desired directory):
