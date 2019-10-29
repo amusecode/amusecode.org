@@ -17,6 +17,11 @@ The easiest way to use AMUSE is to install it with pip - see [installation](/ins
 3. Install AMUSE via pip.
 4. Done! Try some of the examples if you like.
 
+### Documentation
+
+You can find the documentation [here](https://amusecode.github.io/). Additions and/or updates to the documentation
+are appreciated, the source is in the github repository [tree](https://github.com/amusecode/amuse/tree/master/doc).
+
 ### Examples
 
 AMUSE comes with many examples, which you can find in the ["examples" directory on github](https://github.com/amusecode/amuse/tree/master/examples).
