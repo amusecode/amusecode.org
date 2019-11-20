@@ -78,13 +78,12 @@ Your script can now be executed directly from the terminal prompt:
 
 ```bash
 > python myscript.py
+
+The speed of light in vacuum: 299792458.0 m \* s\*\*-1 wavelength --\>
+frequency 355.1 nm --\> 844247.98085 GHz 468.6 nm --\> 639761.967563
+GHz 616.5 nm --\> 486281.359286 GHz 748.1 nm --\> 400738.481486 GHz
+893.1 nm --\> 335676.24902 GHz
 ```
-
-> The speed of light in vacuum: 299792458.0 m \* s\*\*-1 wavelength --\>
-> frequency 355.1 nm --\> 844247.98085 GHz 468.6 nm --\> 639761.967563
-> GHz 616.5 nm --\> 486281.359286 GHz 748.1 nm --\> 400738.481486 GHz
-> 893.1 nm --\> 335676.24902 GHz
-
 ## Example interactive session
 
 This is an example of an interactive session with AMUSE, showing how the
