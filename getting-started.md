@@ -14,8 +14,8 @@ Firstly, directly via the interactive (Python) command line:
 
 ```bash
 > python
-Python 2.7.16 (default, Apr  1 2019, 14:50:41) 
-[GCC 4.2.1 Compatible Apple LLVM 10.0.1 (clang-1001.0.46.3)] on darwin
+Python 3.8.0 (default, Nov  3 2019, 10:55:54) 
+[Clang 11.0.0 (clang-1100.0.33.8)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 >>> quit()    
@@ -33,10 +33,10 @@ def convert_to_freq(wavelengths = [355.1, 468.6, 616.5, 748.1, 893.1] | nano(m))
     This function converts wavelength to frequency, using the speed of
     light in vacuum.
     """
-    print "The speed of light in vacuum:", constants.c
-    print "wavelength -->  frequency"
+    print("The speed of light in vacuum:", constants.c)
+    print("wavelength -->  frequency")
     for wavelength in wavelengths:
-        print wavelength, "  --> ", (constants.c/wavelength).as_quantity_in(giga(Hz))
+        print(wavelength, "  --> ", (constants.c/wavelength).as_quantity_in(giga(Hz)))
 ```
 
 Then this script can be executed from the AMUSE interactive command
@@ -71,7 +71,7 @@ script which of its functions to call when executed:
 
 ```python
 if __name__ == '__main__':
-   convert_to_freq()
+    convert_to_freq()
 ```
 
 Your script can now be executed directly from the terminal prompt:
@@ -148,19 +148,19 @@ values of the particles are retieved from the legacy code by using copy
 from the channel.
 
 ```python
->>> print earth.position[0]
+>>> print(earth.position[0])
 149597870691.0 m
->>> print earth.position.as_quantity_in(units.AU)[0]
+>>> print(earth.position.in_(units.AU)[0])
 1.0 AU
 >>> instance.evolve_model(1.0 | units.yr)
->>> print earth.position.as_quantity_in(units.AU)[0] # This is the outdated value! (should update_particles first)
+>>> print(earth.position.in_(units.AU)[0])  # This is the outdated value! (should update_particles first)
 1.0 AU
 >>> channel.copy()
->>> print earth.position.as_quantity_in(units.AU)[0]
+>>> print(earth.position.in_(units.AU)[0])
 0.999843742682 AU
 >>> instance.evolve_model(1.5 | units.yr)
 >>> channel.copy()
->>> print earth.position.as_quantity_in(units.AU)[0]
+>>> print(earth.position.in_(units.AU)[0])
 -1.0024037469 AU
 ```
 
