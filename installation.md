@@ -16,7 +16,7 @@ In the examples below we choose GCC-7 as the compiler, but more recent versions 
 - For openmpi:
 
 ```bash
-sudo apt-get install build-essential gfortran python-dev \
+sudo apt-get install build-essential gfortran python3-dev \
   libopenmpi-dev openmpi-bin \
   libgsl-dev cmake libfftw3-3 libfftw3-dev \
   libgmp3-dev libmpfr6 libmpfr-dev \
@@ -27,7 +27,7 @@ sudo apt-get install build-essential gfortran python-dev \
 - For mpich:
 
 ```bash
-sudo apt-get install build-essential gfortran python-dev \
+sudo apt-get install build-essential gfortran python3-dev \
   mpich libmpich-dev \
   libgsl-dev cmake libfftw3-3 libfftw3-dev \
   libgmp3-dev libmpfr6 libmpfr-dev \
@@ -39,34 +39,31 @@ sudo apt-get install build-essential gfortran python-dev \
 
 On macOS, you will first need to install Xcode. You can do so via the app store.
 
-In this section we assume a default macOS installation (up to Mojave) with MacPorts, but other methods (such as Homebrew) will also work.
+In this section we assume a default macOS installation (up to Catalina) with MacPorts, but other methods (such as Homebrew) will also work.
 
 You can choose between openmpi and mpich as desired, both work with AMUSE. 
 Please make sure to set the compilers installed here as default, as it will greatly simplify things later on.
-In the examples below we choose GCC-7 as the compiler, but more recent versions of GCC will also work.
+In the examples below we choose GCC 9 as the compiler, but other versions of GCC should also work.
 
 - For openmpi:
 
 ```bash
-sudo port install gcc7 openmpi-gcc7 hdf5 gsl cmake gmp mpfr fftw-3 +gcc7
-sudo port install python27 py27-virtualenv
-sudo port select --set mpi openmpi-gcc7-fortran
-sudo port select --set gcc mp-gcc7
-sudo port select --set python2 python27
-sudo port select --set virtualenv virtualenv27
+sudo port install gcc9 openmpi-gcc9 hdf5 gsl cmake gmp mpfr fftw-3 +gcc9
+sudo port install python38
+sudo port select --set mpi openmpi-gcc9-fortran
+sudo port select --set gcc mp-gcc9
+sudo port select --set python3 python38
 ```
 
 - For mpich:
 
 ```bash
-sudo port install gcc7 mpich-gcc7 hdf5 gsl cmake gmp mpfr fftw-3 +gcc7
-sudo port install python27 py27-virtualenv
-sudo port select --set mpi mpich-gcc7
-sudo port select --set gcc mp-gcc7
-sudo port select --set python2 python27
-sudo port select --set virtualenv virtualenv27
+sudo port install gcc9 mpich-gcc9 hdf5 gsl cmake gmp mpfr fftw-3 +gcc9
+sudo port install python38
+sudo port select --set mpi mpich-gcc9
+sudo port select --set gcc mp-gcc9
+sudo port select --set python3 python38
 ```
-
 
 ## Installing AMUSE
 
@@ -77,13 +74,9 @@ This ensures that you don’t need root privileges and that your AMUSE environme
 To create the virtual environment, do (from a desired directory):
 
 ```bash
-virtualenv Amuse-env
-```
-or
-```bash
 python3 -m venv Amuse-env
 ```
-for Python 3.
+
 When the environment is created, you can activate it with:
 
 ```bash
