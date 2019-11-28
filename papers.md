@@ -23,4 +23,4 @@ van Elteren, A. et al. | [Survivability of planetary systems in young<br> and de
 Author | Title | Minimum AMUSE version | Module
 ------ | ----- | --------------------- | ------
 Martínez-Barbosa, C. A. et al. | [Radial migration of the Sun in the Milky Way:<br> a statistical study](https://ui.adsabs.harvard.edu/abs/2015MNRAS.446..823M/abstract) | 10 | amuse.ext.rotating_bridge
-van der Helm, Edwin et al. | [Simulating stellar winds in AMUSE](https://ui.adsabs.harvard.edu/abs/2019A&A...625A..85V/abstract) | 12.0 | n/a | amuse.ext.stellar_wind
+van der Helm, Edwin et al. | [Simulating stellar winds in AMUSE](https://ui.adsabs.harvard.edu/abs/2019A&A...625A..85V/abstract) | 12.0 | amuse.ext.stellar_wind
