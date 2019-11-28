@@ -14,7 +14,7 @@ Author | Title | AMUSE version used | Simulation scripts
 ------ | ----- | ------------------ | ------------------
 Cai, Maxwell X. et al. | [On the survivability of planets in young massive<br> clusters and its implication of planet orbital<br> architectures in globular clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4311C/abstract) | 11 | n/a
 Concha-Ramírez, F. et al. | [External photoevaporation of circumstellar discs constrains the time-scale for planet formation ](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5678C/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3537676.svg)](https://doi.org/10.5281/zenodo.3537676)
-Concha-Ramírez, F. et al | [The viscous evolution of circumstellar discs in young star clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..732C/abstract) | [![DOI] | 12.1 | (https://zenodo.org/badge/DOI/10.5281/zenodo.1465931.svg)](https://doi.org/10.5281/zenodo.1465931)
+Concha-Ramírez, F. et al | [The viscous evolution of circumstellar discs in young star clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..732C/abstract) | 12.1 | [![DOI] (https://zenodo.org/badge/DOI/10.5281/zenodo.1465931.svg)](https://doi.org/10.5281/zenodo.1465931)
 Sills, Alison et al. | [Dynamical evolution of stars and gas of young<br> embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1903S/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
 van Elteren, A. et al. | [Survivability of planetary systems in young<br> and dense star clusters](https://ui.adsabs.harvard.edu/abs/2019A&A...624A.120V/abstract) | 11 | n/a
 
