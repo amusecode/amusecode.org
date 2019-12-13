@@ -92,7 +92,7 @@ From this point, your prompt will have ‘Amuse-env’ in front of it, so you wi
 Now you can use pip to install the prerequisite python modules for AMUSE:
 
 ```bash
-pip install numpy nose docutils mpi4py h5py
+pip install numpy nose docutils mpi4py h5py wheel
 ```
 Probably, you’ll want to install these Python modules too:
 
@@ -102,6 +102,7 @@ pip install scipy astropy jupyter pandas seaborn
 Now we can finally install AMUSE itself.
 This is done easiest via pip:
 ```bash
+pip install amuse-framework
 pip install amuse
 ```
 If you only require a subset of AMUSE, you can install any of the individual packages as such:
