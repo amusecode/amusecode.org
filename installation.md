@@ -115,6 +115,6 @@ pip install amuse-$(community_code_name)
 
 The packages installed with pip are distributed as source packages that must be compiled against the libraries
 installed on your local machine. After compilation pip saves a binary package version in its cache.
-In case of problems with the AMUSE installation using pip or if the environment changes it may be necessary to clean the pip cache (e.g. at ```!/.cache/pip```). In addition, the cache can be disabled using the ```--no-cache-dir``` option. the ```--no-build-isolation``` may also be tried in case the virtualenv has all the prerequisites, but the build still fails.
+In case of problems with the AMUSE installation using pip or if the environment changes it may be necessary to clean the pip cache (e.g. at ```~/.cache/pip```). In addition, the cache can be disabled using the ```--no-cache-dir``` option. the ```--no-build-isolation``` may also be tried in case the virtualenv has all the prerequisites, but the build still fails.
 The ```--no-clean``` pip install option preserves the build directory for debugging purposes (The actual directory is reported 
-in verbose mode ```-v```. 
+in verbose mode ```-v```). 
