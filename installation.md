@@ -92,7 +92,9 @@ From this point, your prompt will have ‘Amuse-env’ in front of it, so you wi
 Now you can use pip to install the prerequisite python modules for AMUSE:
 
 ```bash
-pip install numpy nose docutils mpi4py h5py wheel
+pip install --upgrade pip
+
+pip install numpy docutils mpi4py h5py wheel
 ```
 Probably, you’ll want to install these Python modules too:
 
