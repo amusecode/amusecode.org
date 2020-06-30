@@ -21,7 +21,7 @@ sudo apt-get install build-essential gfortran python3-dev \
   libgsl-dev cmake libfftw3-3 libfftw3-dev \
   libgmp3-dev libmpfr6 libmpfr-dev \
   libhdf5-serial-dev hdf5-tools \
-  git
+  python3-venv git
 ```
 
 - For mpich:
@@ -32,7 +32,7 @@ sudo apt-get install build-essential gfortran python3-dev \
   libgsl-dev cmake libfftw3-3 libfftw3-dev \
   libgmp3-dev libmpfr6 libmpfr-dev \
   libhdf5-serial-dev hdf5-tools \
-  git
+  python3-venv git
 ```
 
 ### macOS
