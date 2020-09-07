@@ -12,6 +12,7 @@ Please contact us if you have used AMUSE so that we can add your article here - 
 
 Author | Title | AMUSE version used | Simulation scripts
 ------ | ----- | ------------------ | ------------------
+Glaser, Joseph P. et al. | [Tycho: Realistically Simulating Exoplanets within Stellar Clusters. I. Improving the Monte Carlo Approach](https://iopscience.iop.org/article/10.3847/1538-3881/aba2ea/pdf) | 11-13 | [Simulation Framework](https://github.com/JPGlaser/Tycho/releases/tag/v1.0)
 Cai, Maxwell X. et al. | [On the survivability of planets in young massive<br> clusters and its implication of planet orbital<br> architectures in globular clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.489.4311C/abstract) | 11 | n/a
 Concha-Ramírez, F. et al. | [External photoevaporation of circumstellar discs<br> constrains the time-scale for planet formation ](https://ui.adsabs.harvard.edu/abs/2019MNRAS.490.5678C/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3537676.svg)](https://doi.org/10.5281/zenodo.3537676)
 Concha-Ramírez, F. et al | [The viscous evolution of circumstellar discs<br> in young star clusters](https://ui.adsabs.harvard.edu/abs/2019MNRAS.482..732C/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1465931.svg)](https://doi.org/10.5281/zenodo.1465931)
