@@ -5,6 +5,10 @@ nav_order: 3
 permalink: /installation
 ---
 
+
+Installation instructions can be found in the [documentation](https://amuse.readthedocs.io/en/latest/install/howto-install-AMUSE.html)
+
+
 ## Installing the prerequisites
 For a full AMUSE installation, you will need to install some further dependencies that can be installed via your package manager - e.g. apt or yum on Linux; macports or homebrew on macOS.
 
