@@ -6,4 +6,4 @@ permalink: /installation
 ---
 
 
-Installation instructions can be found in the [documentation](https://amuse.readthedocs.io/en/latest/install/howto-install-AMUSE.html)
+Full installation instructions can be found in the [documentation](https://amuse.readthedocs.io/en/latest/install/howto-install-AMUSE.html).
