@@ -226,3 +226,8 @@ library, get it from <https://matplotlib.org/> and install it in the
 Python site-packages directory. For your own work, it is of course also
 possible to print the required output to the terminal and use your
 favourite plotting tool to make the figures.
+
+
+## Further tutorials
+
+Further tutorials, also on more advanced topics, can be found [here](https://amuse.readthedocs.io/en/latest/tutorial/index.html).
