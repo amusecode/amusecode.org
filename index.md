@@ -17,7 +17,7 @@ The easiest way to use AMUSE is to install it with pip - see [installation](http
 3. Install AMUSE via pip.
 4. Done! Try some of the examples if you like.
 
-We also encourage you to register to the AMUSE announcements list at https://groups.google.com/g/amusecode/about.
+We also encourage you to register to the AMUSE announcements list at [https://groups.google.com/g/amusecode/about](https://groups.google.com/g/amusecode/about).
 
 ### Documentation
 
