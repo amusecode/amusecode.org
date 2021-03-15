@@ -13,3 +13,5 @@ aux_links:
         - "https://github.com/amusecode/amuse"
     "Documentation":
         - "https://amuse.readthedocs.io/en/latest/"
+    "Installation":
+        - "https://amuse.readthedocs.io/en/latest/install/howto-install-AMUSE.html"
