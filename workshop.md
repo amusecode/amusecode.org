@@ -8,7 +8,7 @@ permalink: /workshop
 We are organising an AMUSE workshop from June 1-4, 2021.
 This workshop will be held fully online.
 
-For more information or to pre-register, please email s.rieder@exeter.ac.uk.
+For more information or to pre-register, please [contact us](mailto:s.rieder@exeter.ac.uk?subject="Pre-registering for AMUSE workshop).
 
 SOC:
 Alison Sills,
