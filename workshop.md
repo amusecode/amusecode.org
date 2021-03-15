@@ -18,7 +18,7 @@ Anna Lisa Varri,
 Amelia Stutz,
 Inti Pelupessy,
 Martijn Wilhelm,
-Simon Portegies Zwart,
+Simon Portegies&nbsp;Zwart,
 Steve McMillan,
 Steven Rieder
 
