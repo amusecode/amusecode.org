@@ -26,12 +26,12 @@ We will discuss how to successfully run simulations that include codes from mult
 *Speakers (morning)*: Sambaran Banerjee, Christian Boily, Hila Glanz, Steven Rieder\
 *Speakers (afternoon)*: Claude Cournoyer-Cloutier, Jeremy Karam, Aaron Tran
 
-**Wednesday**: *"Bridging spatial domains"* (Chairs: Steven Rieder and Jeremy Webb)\
+**Wednesday**: *"Bridging spatial domains"* (Chairs: Christian Boily and Jeremy Webb)\
 We will discuss simulations that involve multiple scales.\
 *Speakers (morning)*: Alessandro Trani, Long Wang\
 *Speakers (afternoon)*: Francesco Flammini Dotti, Nathan Leigh
 
-**Thursday**: *"Observations and tools"* (Chairs: Christian Boily and Tjarda Boekholt)\
+**Thursday**: *"Observations and tools"* (Chairs: Anna Lisa Varri and Tjarda Boekholt)\
 We will discuss how to successfully include observations and observational tools with AMUSE.\
 *Speakers (morning)*: Anne Buckner, Mathias Michielsen, Steven Rieder\
 *Speakers (afternoon)*: Alison Sills, Jeremy Webb
