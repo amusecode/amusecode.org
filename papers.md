@@ -8,7 +8,7 @@ permalink: /papers
 The articles listed on this page used and/or contributed to AMUSE. The list is incomplete.
 Please contact us if you have used AMUSE so that we can add your article here - or [edit it yourself](https://github.com/amusecode/amusecode.github.io/blob/master/papers.md).
 
-## A list of articles that used AMUSE:
+## A (far from complete!) list of articles that used AMUSE:
 
 Author | Title | AMUSE version used | Simulation scripts
 ------ | ----- | ------------------ | ------------------
@@ -19,7 +19,7 @@ Concha-Ramírez, F. et al | [The viscous evolution of circumstellar discs<br> in
 Sills, Alison et al. | [Dynamical evolution of stars and gas of young<br> embedded stellar sub-clusters](https://ui.adsabs.harvard.edu/abs/2018MNRAS.477.1903S/abstract) | 12.1 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1213138.svg)](https://doi.org/10.5281/zenodo.1213138)
 van Elteren, A. et al. | [Survivability of planetary systems in young<br> and dense star clusters](https://ui.adsabs.harvard.edu/abs/2019A&A...624A.120V/abstract) | 11 | n/a
 
-## A list of AMUSE modules:
+## A (far from complete!) list of contributed AMUSE modules:
 
 Author | Title | Minimum AMUSE version | Module
 ------ | ----- | --------------------- | ------
