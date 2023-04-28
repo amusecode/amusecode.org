@@ -14,8 +14,7 @@ Firstly, directly via the interactive (Python) command line:
 
 ```bash
 > python
-Python 3.8.0 (default, Nov  3 2019, 10:55:54) 
-[Clang 11.0.0 (clang-1100.0.33.8)] on darwin
+Python 3.10.10 (main, Feb 24 2023, 04:10:25) [Clang 14.0.0 (clang-1400.0.29.202)] on darwin
 Type "help", "copyright", "credits" or "license" for more information.
 >>> 
 >>> quit()    
@@ -33,10 +32,10 @@ def convert_to_freq(wavelengths = [355.1, 468.6, 616.5, 748.1, 893.1] | nano(m))
     This function converts wavelength to frequency, using the speed of
     light in vacuum.
     """
-    print("The speed of light in vacuum:", constants.c)
+    print(f"The speed of light in vacuum: {constants.c}")
     print("wavelength -->  frequency")
     for wavelength in wavelengths:
-        print(wavelength, "  --> ", (constants.c/wavelength).as_quantity_in(giga(Hz)))
+        print(f"{wavelength}  --> {(constants.c/wavelength).as_quantity_in(giga(Hz))}")
 ```
 
 Then this script can be executed from the AMUSE interactive command
@@ -94,7 +93,7 @@ course, not exactly what a Tree code normally is used for. First we
 import the necessary AMUSE modules.
 
 ```python
->>> from amuse.community.bhtree.interface import BHTree
+>>> from amuse.community.bhtree import Bhtree
 >>> from amuse.datamodel import Particles
 >>> from amuse.units import nbody_system
 >>> from amuse.units import units
@@ -107,14 +106,14 @@ specific system, when creating an instance of the legacy code class.
 
 ```python
 >>> convert_nbody = nbody_system.nbody_to_si(1.0 | units.MSun, 149.5e6 | units.km)
->>> instance = BHTree(convert_nbody)
+>>> instance = Bhtree(convert_nbody)
 ```
 
 Now we can tell the instance to change one of its parameters, before it
 initializes itself:
 
 ```python
->>> instance.parameters.epsilon_squared = 0.001 | units.AU**2
+>>> instance.parameters.epsilon_squared = 0.001 | units.au**2
 ```
 
 Then we create two particles, with properties set to those of the Sun
@@ -124,13 +123,13 @@ and the Earth, and hand them over to the BHTree instance.
 >>> stars = Particles(2)
 >>> sun = stars[0]
 >>> sun.mass = 1.0 | units.MSun
->>> sun.position = [0.0,0.0,0.0] | units.m
->>> sun.velocity = [0.0,0.0,0.0] | units.m / units.s
+>>> sun.position = [0.0, 0.0, 0.0] | units.m
+>>> sun.velocity = [0.0, 0.0, 0.0] | units.m / units.s
 >>> sun.radius = 1.0 | units.RSun
 >>> earth = stars[1]
 >>> earth.mass = 5.9736e24 | units.kg
 >>> earth.radius = 6371.0 | units.km 
->>> earth.position = [1.0, 0.0, 0.0] | units.AU
+>>> earth.position = [1.0, 0.0, 0.0] | units.au
 >>> earth.velocity = [0.0, 29783, 0.0] | units.m / units.s
 >>> instance.particles.add_particles(stars)
 ```
@@ -149,18 +148,18 @@ from the channel.
 ```python
 >>> print(earth.position[0])
 149597870691.0 m
->>> print(earth.position.in_(units.AU)[0])
+>>> print(earth.position.in_(units.au)[0])
 1.0 AU
 >>> instance.evolve_model(1.0 | units.yr)
->>> print(earth.position.in_(units.AU)[0])  # This is the outdated value! (should update_particles first)
+>>> print(earth.position.in_(units.au)[0])  # This is the outdated value! (should update_particles first)
 1.0 AU
 >>> channel.copy()
->>> print(earth.position.in_(units.AU)[0])
-0.999843742682 AU
+>>> print(earth.position.in_(units.au)[0])
+0.999843742682 au
 >>> instance.evolve_model(1.5 | units.yr)
 >>> channel.copy()
->>> print(earth.position.in_(units.AU)[0])
--1.0024037469 AU
+>>> print(earth.position.in_(units.au)[0])
+-1.0024037469 au
 ```
 
 It's always a good idea to clean up after you're finished:
