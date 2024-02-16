@@ -12,7 +12,9 @@ It will be held as an "unconference"/hackathon, as such there are no fixed slots
 As available places are limited, please let us know as soon as possible whether you will be able to participate.
 Preference will be given to participants for whom travelling imposes a smaller carbon footprint.
 We plan to organize a similar meeting later this year in Europe.
-**Registration will open soon.**
+
+[**Register using this form.**](https://docs.google.com/forms/d/e/1FAIpQLSd7gvu6H7X3RbfjMuSm4pcgGNJ-m-1dSQYaPEbkzE59mptgFw/viewform)
+Registration is open until March 22nd. We will notify everyone who registered soon after if they are accepted to join the workshop.
 
 Preliminary schedule:
 
