@@ -33,7 +33,7 @@ Tuesday:
 - Morning: Work on the selected parts from day 1.
 - Afternoon: Break-out sessions: discussing new features
   
-Thursday:
+Wednesday:
 - Morning: Refactor FLASH interface in AMUSE.
 - Afternoon: Break-out sessions: Discuss other MHD solver options.
   
