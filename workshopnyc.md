@@ -40,7 +40,7 @@ Thursday:
 Thursday: 
 - Morning: Work on the selected parts from day 1.
 - Afternoon: Join the RAMSES workshop at the CCA Simons Center.
-- 
+  
 Friday:
 - Morning: Design RAMSES interface for AMUSE
 - Afternoon: Conclusions and discussion of future developments
