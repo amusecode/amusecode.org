@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Workshop
-nav_order: 4
+title: Workshop April 2024
 permalink: /workshopnyc
 ---
 
