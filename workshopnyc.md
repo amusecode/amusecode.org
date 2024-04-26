@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Workshop April 2024
 permalink: /workshopnyc
 ---
 
