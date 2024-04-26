@@ -9,12 +9,10 @@ We are organizing an advanced workshop for AMUSE users at the American Museum of
 The meeting will be from Monday, April 22 to Friday, April 26, starting on Monday at 10am at the AMNH.
 It will be held as an "unconference"/hackathon, as such there are no fixed slots for talks.
 
-As available places are limited, please let us know as soon as possible whether you will be able to participate.
-Preference will be given to participants for whom travelling imposes a smaller carbon footprint.
-We plan to organize a similar meeting later this year in Europe.
+~As available places are limited, please let us know as soon as possible whether you will be able to participate.
+Preference will be given to participants for whom travelling imposes a smaller carbon footprint.~
 
-[**Register using this form.**](https://docs.google.com/forms/d/e/1FAIpQLSd7gvu6H7X3RbfjMuSm4pcgGNJ-m-1dSQYaPEbkzE59mptgFw/viewform)
-Registration is open until March 22nd. We will notify everyone who registered soon after if they are accepted to join the workshop.
+We plan to organize a similar meeting later this year in Europe.
 
 Preliminary schedule:
 
