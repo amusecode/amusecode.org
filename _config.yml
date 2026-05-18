@@ -14,7 +14,7 @@ aux_links:
     "Documentation":
         - "https://amuse.readthedocs.io/en/latest/"
     "Installation":
-        - "https://amuse.readthedocs.io/en/latest/install/howto-install-AMUSE.html"
+        - "https://amuse.readthedocs.io/en/latest/install/index.html"
     "Wiki for sysadmins":
         - "https://github.com/amusecode/amuse/wiki"
     "FAQ":
