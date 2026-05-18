@@ -29,7 +29,7 @@ are appreciated, the source is in the github repository [tree](https://github.co
 ### Examples
 
 AMUSE comes with many examples, which you can find in the ["examples" directory on github](https://github.com/amusecode/amuse/tree/main/src/amuse/examples).
-The "textbook" examples are described in the [AMUSE book](https://iopscience.iop.org/book/978-0-7503-1320-9).
+The "textbook" examples are described in the [AMUSE book](https://iopscience.iop.org/book/mono/978-0-7503-5331-1).
 If you need help, don't hesitate to contact us (preferably by [creating an issue on github](https://github.com/amusecode/amuse/issues/new?assignees=&labels=question&template=question.md&title=)).
 
 ### Get involved
