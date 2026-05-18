@@ -11,11 +11,13 @@ With it, you can simulate many astrophysical systems.
 
 ### Getting Started
 
-The easiest way to use AMUSE is to install it with pip - see [installation](https://amuse.readthedocs.io/en/latest/install/index.html).
-1. Install Python and other prerequisites, such as a compiler and MPI.
-2. (Optional) Create a virtual environment.
-3. Install AMUSE via pip.
-4. Done! Try some of the examples if you like.
+The easiest way to use AMUSE is to install it with conda - see [installation](https://amuse.readthedocs.io/en/latest/install/index.html).
+
+1. Install conda, preferably using miniforge
+2. Create a conda environment
+3. Download the AMUSE source code
+4. Use ./setup to install AMUSE
+5. Done! Try some of the examples if you like.
 
 We also encourage you to register to the AMUSE announcements list at [https://groups.google.com/g/amusecode/about](https://groups.google.com/g/amusecode/about).
 
