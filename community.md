@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Events and meetings
+title: Community
 nav_order: 3
-permalink: /events
+permalink: /community
 ---
 
 ## Online user meetings
@@ -13,7 +13,9 @@ us on [Jitsi](https://meet.jit.si/AMUSECommunityMeeting)!
 The user meetings are open to all AMUSE users, from beginners to experts.
 They are an excellent opportunity to ask us anything you wanted to know about AMUSE, from installation issues to advanced bridging methods.
 
-These meetings and other AMUSE related events are announced on Github: [https://github.com/amusecode/amuse/discussions/categories/events](https://github.com/amusecode/amuse/discussions/categories/events)
+## Slack
+
+[Join the AMUSE Slack](https://join.slack.com/t/amusecode/shared_invite/zt-3yacr6o12-ni0gXJg1jnjzmYV0b8yaVg) to connect to the community and the developers, ask for help, and be notified of user meetings.
 
 ## In-person meetings
 
