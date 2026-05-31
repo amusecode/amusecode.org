@@ -11,11 +11,13 @@ With it, you can simulate many astrophysical systems.
 
 ### Getting Started
 
-The easiest way to use AMUSE is to install it with pip - see [installation](https://amuse.readthedocs.io/en/latest/install/index.html).
-1. Install Python and other prerequisites, such as a compiler and MPI.
-2. (Optional) Create a virtual environment.
-3. Install AMUSE via pip.
-4. Done! Try some of the examples if you like.
+The easiest way to use AMUSE is to install it with conda - see [installation](https://amuse.readthedocs.io/en/latest/install/index.html).
+
+1. Install conda, preferably using miniforge
+2. Create a conda environment
+3. Download the AMUSE source code
+4. Use ./setup to install AMUSE
+5. Done! Try some of the examples if you like.
 
 We also encourage you to register to the AMUSE announcements list at [https://groups.google.com/g/amusecode/about](https://groups.google.com/g/amusecode/about).
 
@@ -26,8 +28,8 @@ are appreciated, the source is in the github repository [tree](https://github.co
 
 ### Examples
 
-AMUSE comes with many examples, which you can find in the ["examples" directory on github](https://github.com/amusecode/amuse/tree/master/examples).
-The "textbook" examples are described in the [AMUSE book](https://iopscience.iop.org/book/978-0-7503-1320-9).
+AMUSE comes with many examples, which you can find in the ["examples" directory on github](https://github.com/amusecode/amuse/tree/main/src/amuse/examples).
+The "textbook" examples are described in the [AMUSE book](https://iopscience.iop.org/book/mono/978-0-7503-5331-1).
 If you need help, don't hesitate to contact us (preferably by [creating an issue on github](https://github.com/amusecode/amuse/issues/new?assignees=&labels=question&template=question.md&title=)).
 
 ### Get involved
